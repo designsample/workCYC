@@ -1,1 +1,14 @@
 @charset "UTF-8";
+.bg{
+  z-index:99;}
+.nav{
+  position:absolute;
+  top:0;
+  height:137px;
+  background:#555;}
+.sub{
+  position:absolute;
+  height:72px;
+  backgroung:#555;
+  top:708px;}
+  
